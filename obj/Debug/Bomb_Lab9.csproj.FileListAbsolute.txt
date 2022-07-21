@@ -1,0 +1,52 @@
+D:\studio\Bomb_Lab9\bin\Debug\Bomb_Lab9.exe.config
+D:\studio\Bomb_Lab9\bin\Debug\Bomb_Lab9.exe
+D:\studio\Bomb_Lab9\bin\Debug\Bomb_Lab9.pdb
+D:\studio\Bomb_Lab9\obj\Debug\Bomb_Lab9.csprojAssemblyReference.cache
+D:\studio\Bomb_Lab9\obj\Debug\MainWindow.g.cs
+D:\studio\Bomb_Lab9\obj\Debug\App.g.cs
+D:\studio\Bomb_Lab9\obj\Debug\Bomb_Lab9_MarkupCompile.cache
+D:\studio\Bomb_Lab9\obj\Debug\Bomb_Lab9_MarkupCompile.lref
+D:\studio\Bomb_Lab9\obj\Debug\MainWindow.baml
+D:\studio\Bomb_Lab9\obj\Debug\Bomb_Lab9.g.resources
+D:\studio\Bomb_Lab9\obj\Debug\Bomb_Lab9.Properties.Resources.resources
+D:\studio\Bomb_Lab9\obj\Debug\Bomb_Lab9.csproj.GenerateResource.cache
+D:\studio\Bomb_Lab9\obj\Debug\Bomb_Lab9.csproj.CoreCompileInputs.cache
+D:\studio\Bomb_Lab9\obj\Debug\Bomb_Lab9.exe
+D:\studio\Bomb_Lab9\obj\Debug\Bomb_Lab9.pdb
+D:\studio\Bomb_Lab9\obj\Debug\Bomb.g.cs
+D:\studio\Bomb_Lab9\obj\Debug\Bomb.baml
+D:\Mntu\3kource\Людино-машино-взаемодія\лаба_готово\Lab9\Lab9_2_Bomb\bin\Debug\Bomb_Lab9.exe.config
+D:\Mntu\3kource\Людино-машино-взаемодія\лаба_готово\Lab9\Lab9_2_Bomb\bin\Debug\Bomb_Lab9.exe
+D:\Mntu\3kource\Людино-машино-взаемодія\лаба_готово\Lab9\Lab9_2_Bomb\bin\Debug\Bomb_Lab9.pdb
+D:\Mntu\3kource\Людино-машино-взаемодія\лаба_готово\Lab9\Lab9_2_Bomb\obj\Debug\Bomb_Lab9.csprojAssemblyReference.cache
+D:\Mntu\3kource\Людино-машино-взаемодія\лаба_готово\Lab9\Lab9_2_Bomb\obj\Debug\MainWindow.g.cs
+D:\Mntu\3kource\Людино-машино-взаемодія\лаба_готово\Lab9\Lab9_2_Bomb\obj\Debug\Bomb.g.cs
+D:\Mntu\3kource\Людино-машино-взаемодія\лаба_готово\Lab9\Lab9_2_Bomb\obj\Debug\App.g.cs
+D:\Mntu\3kource\Людино-машино-взаемодія\лаба_готово\Lab9\Lab9_2_Bomb\obj\Debug\Bomb_Lab9_MarkupCompile.cache
+D:\Mntu\3kource\Людино-машино-взаемодія\лаба_готово\Lab9\Lab9_2_Bomb\obj\Debug\Bomb_Lab9_MarkupCompile.lref
+D:\Mntu\3kource\Людино-машино-взаемодія\лаба_готово\Lab9\Lab9_2_Bomb\obj\Debug\MainWindow.baml
+D:\Mntu\3kource\Людино-машино-взаемодія\лаба_готово\Lab9\Lab9_2_Bomb\obj\Debug\Bomb.baml
+D:\Mntu\3kource\Людино-машино-взаемодія\лаба_готово\Lab9\Lab9_2_Bomb\obj\Debug\Bomb_Lab9.g.resources
+D:\Mntu\3kource\Людино-машино-взаемодія\лаба_готово\Lab9\Lab9_2_Bomb\obj\Debug\Bomb_Lab9.Properties.Resources.resources
+D:\Mntu\3kource\Людино-машино-взаемодія\лаба_готово\Lab9\Lab9_2_Bomb\obj\Debug\Bomb_Lab9.csproj.GenerateResource.cache
+D:\Mntu\3kource\Людино-машино-взаемодія\лаба_готово\Lab9\Lab9_2_Bomb\obj\Debug\Bomb_Lab9.csproj.CoreCompileInputs.cache
+D:\Mntu\3kource\Людино-машино-взаемодія\лаба_готово\Lab9\Lab9_2_Bomb\obj\Debug\Bomb_Lab9.exe
+D:\Mntu\3kource\Людино-машино-взаемодія\лаба_готово\Lab9\Lab9_2_Bomb\obj\Debug\Bomb_Lab9.pdb
+D:\МНТУ\5ая сессия(3ой_Курс)\Людино-машинна взаємодія(WPF)\Done\Lab9_2_Bomb\bin\Debug\Bomb_Lab9.exe.config
+D:\МНТУ\5ая сессия(3ой_Курс)\Людино-машинна взаємодія(WPF)\Done\Lab9_2_Bomb\bin\Debug\Bomb_Lab9.exe
+D:\МНТУ\5ая сессия(3ой_Курс)\Людино-машинна взаємодія(WPF)\Done\Lab9_2_Bomb\bin\Debug\Bomb_Lab9.pdb
+D:\МНТУ\5ая сессия(3ой_Курс)\Людино-машинна взаємодія(WPF)\Done\Lab9_2_Bomb\obj\Debug\Bomb_Lab9.csproj.AssemblyReference.cache
+D:\МНТУ\5ая сессия(3ой_Курс)\Людино-машинна взаємодія(WPF)\Done\Lab9_2_Bomb\obj\Debug\MainWindow.g.cs
+D:\МНТУ\5ая сессия(3ой_Курс)\Людино-машинна взаємодія(WPF)\Done\Lab9_2_Bomb\obj\Debug\Bomb.g.cs
+D:\МНТУ\5ая сессия(3ой_Курс)\Людино-машинна взаємодія(WPF)\Done\Lab9_2_Bomb\obj\Debug\App.g.cs
+D:\МНТУ\5ая сессия(3ой_Курс)\Людино-машинна взаємодія(WPF)\Done\Lab9_2_Bomb\obj\Debug\Bomb_Lab9_MarkupCompile.cache
+D:\МНТУ\5ая сессия(3ой_Курс)\Людино-машинна взаємодія(WPF)\Done\Lab9_2_Bomb\obj\Debug\Bomb_Lab9_MarkupCompile.lref
+D:\МНТУ\5ая сессия(3ой_Курс)\Людино-машинна взаємодія(WPF)\Done\Lab9_2_Bomb\obj\Debug\MainWindow.baml
+D:\МНТУ\5ая сессия(3ой_Курс)\Людино-машинна взаємодія(WPF)\Done\Lab9_2_Bomb\obj\Debug\Bomb.baml
+D:\МНТУ\5ая сессия(3ой_Курс)\Людино-машинна взаємодія(WPF)\Done\Lab9_2_Bomb\obj\Debug\Bomb_Lab9.g.resources
+D:\МНТУ\5ая сессия(3ой_Курс)\Людино-машинна взаємодія(WPF)\Done\Lab9_2_Bomb\obj\Debug\Bomb_Lab9.Properties.Resources.resources
+D:\МНТУ\5ая сессия(3ой_Курс)\Людино-машинна взаємодія(WPF)\Done\Lab9_2_Bomb\obj\Debug\Bomb_Lab9.csproj.GenerateResource.cache
+D:\МНТУ\5ая сессия(3ой_Курс)\Людино-машинна взаємодія(WPF)\Done\Lab9_2_Bomb\obj\Debug\Bomb_Lab9.csproj.CoreCompileInputs.cache
+D:\МНТУ\5ая сессия(3ой_Курс)\Людино-машинна взаємодія(WPF)\Done\Lab9_2_Bomb\obj\Debug\Bomb_Lab9.exe
+D:\МНТУ\5ая сессия(3ой_Курс)\Людино-машинна взаємодія(WPF)\Done\Lab9_2_Bomb\obj\Debug\Bomb_Lab9.pdb
+D:\МНТУ\5ая сессия(3ой_Курс)\Людино-машинна взаємодія(WPF)\Done\Lab9_2_Bomb\obj\Debug\Bomb_Lab9.csproj.SuggestedBindingRedirects.cache
